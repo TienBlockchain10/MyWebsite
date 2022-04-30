@@ -1,0 +1,24 @@
+---
+title: "My website"
+output: 
+  html_document:
+    toc: FALSE
+---
+
+
+
+
+**Welcome to my website!**
+
+
+# Who Am I?
+
+My name is Tien Nguyen and I am a Computer Science Student at Lamar University.
+
+
+# Additional Details
+
+I am the Co-Founder/President of Blockchain Student Society and an aspiring 
+dApp/Smart Contract Developer.
+
+
